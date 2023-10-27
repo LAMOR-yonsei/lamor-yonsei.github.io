@@ -16,7 +16,7 @@ sections:
           - Students
           - Intern
           - Alumni
-      sort_by: Params.authors
+      sort_by: Params.order
       sort_ascending: true
     design:
       show_interests: false
