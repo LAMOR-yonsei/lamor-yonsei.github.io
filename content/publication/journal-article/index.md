@@ -1,7 +1,7 @@
 ---
 title: 'Predictability of PM2.5 in Seoul based on atmospheric blocking forecasts using the NCEP global forecast system'
 authors:
-  - '*SUJ*'
+  - '**SUJ**'
   - PSH
   - PJS
   - Ja-Ho Koo
