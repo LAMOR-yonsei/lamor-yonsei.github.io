@@ -8,9 +8,9 @@ authors:
   - Changhyun Yoo
   - Soontae Kim
   - Jae-bum Lee
-author_notes:
-  - "**"
-  - "**"
+#author_notes:
+#  - "**"
+#  - "**"
 
 date: '2021-02-01T00:00:00Z'
 doi: ''
