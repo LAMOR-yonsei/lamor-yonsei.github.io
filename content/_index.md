@@ -9,16 +9,14 @@ sections:
   - block: hero
     content:
       text: |
-        <br>
-        
         Laboratory for Atmospheric Modelling Research (LAMOR) at Yonsei, directed by Prof. Sang-Hun Park since 2017
-      image:
-        filename: main-image.jpg
-
+        <br>
       cta:
         label: What we study
-        url: https://wowchemy.com/templates/
-
+        url: research/
+      cta:
+        label: Who we are
+        url: members/
 
   - block: markdown
     content:
@@ -29,7 +27,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: main-image.jpg
           filters:
             brightness: 1
           parallax: false
