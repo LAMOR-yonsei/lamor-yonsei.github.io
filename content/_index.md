@@ -9,12 +9,9 @@ sections:
     content:
       title: |
         LAMOR (Laboratory for Atmospheric Modelling Research)
-      image:
-        filename: welcome.jpg
       text: |
         <br>
-        
-        The **LAMOR** has been a center of excellence for research, teaching, and practice about **atmospheric modeling** since its founding in 2017.
+        **LAMOR** has been a center of excellence for research, teaching, and practice about **atmospheric modeling** since its founding in 2017.
   
   - block: collection
     content:
@@ -34,7 +31,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+ 
   - block: markdown
     content:
       title:
