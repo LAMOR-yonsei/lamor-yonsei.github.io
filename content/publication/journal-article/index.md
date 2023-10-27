@@ -10,7 +10,7 @@ authors:
   - Jae-bum Lee
 
 date: '2021-02-01T00:00:00Z'
-doi: '10.1016/j.atmosenv.2020.118141'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-02-01T00:00:00Z'
@@ -41,7 +41,7 @@ tags:
   - Atmospheric blocking
   - Air quality prediction
   - Predictability of PM2.5
-featured: false
+featured: true
 
 links:
   - name: Paper
