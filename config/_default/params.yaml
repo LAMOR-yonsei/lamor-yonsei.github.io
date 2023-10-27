@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minmal
   font: native
   font_size: L
 
@@ -35,10 +35,10 @@ header:
     enable: true
     align: r
     show_logo: true
-    show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: false
+    show_language: false
 
 # Site footer
 
@@ -90,12 +90,10 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: 
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
+    provider: wowchemy
+    wowchemy:
+      min_length: 1  # Only the matches whose length exceeds this value will be returned.
+      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
   map:
     provider: 'mapnik'
     api_key: ''
