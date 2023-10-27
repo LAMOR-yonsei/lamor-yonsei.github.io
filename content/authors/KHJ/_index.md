@@ -10,6 +10,7 @@ last_name: Kim
 authors:
   - KHJ
 
+# order to be placed in list
 order: 0
 
 # Is this the primary user of the site?
@@ -28,7 +29,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Machine Learning-based Atmospheric Model
-  - Physics Parametrization
+  - Exreme weather forecasting and nowcasting
   - Numerical-Neural Model Coupling
 
 education:
