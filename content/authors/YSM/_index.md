@@ -1,14 +1,16 @@
 ---
 # Display name
-title: Minjae Lee
+title: Seungmin Yu
 
 # Full name (for SEO)
-first_name: Minjae
-last_name: Lee
+first_name: Seungmin
+last_name: Yu
 
 # Username (this should match the folder name)
 authors:
-  - 02LMJ
+  - YSM
+
+order: 4
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,12 +24,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests is machine learning application in atmospheric modeling
 
 interests:
-  - Machine Learning
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning-based Atmospheric Model
+  - Physics Parametrization
+  - Numerical-Neural Model Coupling
 
 education:
   courses:

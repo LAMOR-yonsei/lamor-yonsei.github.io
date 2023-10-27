@@ -1,14 +1,16 @@
 ---
 # Display name
-title: Hyejun Kim
+title: Joonsung Park
 
 # Full name (for SEO)
-first_name: Hyejun
-last_name: Kim
+first_name: Joonsung
+last_name: Park
 
 # Username (this should match the folder name)
 authors:
-  - 00KHJ
+  - PJS
+
+order: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,13 +27,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Machine Learning-based Atmospheric Model
-  - Physics Parametrization
-  - Numerical-Neural Model Coupling
+  - Machine Learning
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
-    - course: B.S. in Atmospheric Science
+    - course: B.S. in Astro and Atmospheric Science
       institution: Yonsei University
       year: 2022
 

@@ -1,14 +1,16 @@
 ---
 # Display name
-title: Sehyun Lee
+title: Minjae Lee
 
 # Full name (for SEO)
-first_name: Sehyun
+first_name: Minjae
 last_name: Lee
 
 # Username (this should match the folder name)
 authors:
-  - 03LSH
+  - LMJ
+
+order: 2
 
 # Is this the primary user of the site?
 superuser: false

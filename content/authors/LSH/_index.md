@@ -1,14 +1,16 @@
 ---
 # Display name
-title: Joonsung Park
+title: Sehyun Lee
 
 # Full name (for SEO)
-first_name: Joonsung
-last_name: Park
+first_name: Sehyun
+last_name: Lee
 
 # Username (this should match the folder name)
 authors:
-  - 01PJS
+  - LSH
+
+order: 3
 
 # Is this the primary user of the site?
 superuser: false

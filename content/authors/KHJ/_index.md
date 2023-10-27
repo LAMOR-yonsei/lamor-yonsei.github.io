@@ -1,14 +1,16 @@
 ---
 # Display name
-title: Seungmin Yu
+title: Hyejin Kim
 
 # Full name (for SEO)
-first_name: Seungmin
-last_name: Yu
+first_name: Hyejin
+last_name: Kim
 
 # Username (this should match the folder name)
 authors:
-  - 04YSM
+  - KHJ
+
+order: 0
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +24,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests is machine learning application in atmospheric modeling
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Machine Learning-based Atmospheric Model
@@ -31,7 +33,7 @@ interests:
 
 education:
   courses:
-    - course: B.S. in Astro and Atmospheric Science
+    - course: B.S. in Atmospheric Science
       institution: Yonsei University
       year: 2022
 
