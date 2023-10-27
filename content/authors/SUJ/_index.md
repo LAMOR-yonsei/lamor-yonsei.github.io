@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Uju Shun
+title: Uju Shin
 
 # Full name (for SEO)
 first_name: Uju
