@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: members
+  - block: people
     content:
       title: Meet members of LAMOR
       # Choose which groups/teams of users to display.
@@ -16,10 +16,6 @@ sections:
           - Students
           - Intern
           - Alumni
-          - Principal Investigators
-          - Grad Students
-          - Administration
-          - Visitors
       sort_by: Params.last_name
       sort_ascending: true
     design:
