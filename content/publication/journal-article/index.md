@@ -38,7 +38,7 @@ featured: false
 
 # links:
  - name: Paper
-   url: "https://doi.org/10.1016/j.atmosenv.2020.118141"
+   url: https://doi.org/10.1016/j.atmosenv.2020.118141
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: ''
 #url_dataset: ''
