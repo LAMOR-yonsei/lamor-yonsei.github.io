@@ -6,26 +6,21 @@ sections:
   - block: features
     content:
       title: Our Research
-      subtitle: 
+      subtitle: ' ' 
       items:
         - name: Dynamical core
           description: 90%
-
         - name: Physics parametrization
           description: 100%
-
         - name: Photography
           description: 10%
-
-      subtitle: 
+      subtitle: ' '
       items:
-        - name: R
+        - name: Dynamical core
           description: 90%
-          
-        - name: Statistics
+        - name: Physics parametrization
           description: 100%
-
         - name: Photography
           description: 10%
-          
+
 ---
