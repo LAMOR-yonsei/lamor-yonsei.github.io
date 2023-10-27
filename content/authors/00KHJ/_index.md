@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Minjae Lee
+title: Hyejun Kim
 
 # Full name (for SEO)
-first_name: Minjae
-last_name: Lee
+first_name: Hyejun
+last_name: Kim
 
 # Username (this should match the folder name)
 authors:
-  - LMJ
+  - 00KHJ
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,13 +25,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Machine Learning
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning-based Atmospheric Model
+  - Physics Parametrization
+  - Numerical-Neural Model Coupling
 
 education:
   courses:
-    - course: B.S. in Astro and Atmospheric Science
+    - course: B.S. in Atmospheric Science
       institution: Yonsei University
       year: 2022
 

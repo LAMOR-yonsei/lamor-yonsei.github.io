@@ -8,7 +8,7 @@ last_name: Park
 
 # Username (this should match the folder name)
 authors:
-  - PCH
+  - 05PCH
 
 # Is this the primary user of the site?
 superuser: false
