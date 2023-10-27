@@ -25,21 +25,20 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mesocale Convective System
+  - Heavy Precipitation Systems over the Korean Pennisular
 
 education:
   courses:
     - course: PhD in Atmospheric Science
       institution: Yonsei University
-      year: 2009
+      year: 2019
     - course: M.S. in Atmospheric Science
       institution: Yonsei University
-      year: 2001
+      year: 2010
     - course: B.S. in Astro and Atmospheric Science
       institution: Yonsei University
-      year: 1999
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pshun@yonsei.ac.kr'
+    link: 'mailto:shinuju@yonsei.ac.kr'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
