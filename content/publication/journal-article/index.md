@@ -10,7 +10,7 @@ authors:
   - Jae-bum Lee
 
 date: '2021-02-01T00:00:00Z'
-doi: ''
+doi: '10.1016/j.atmosenv.2020.118141'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-02-01T00:00:00Z'
@@ -44,7 +44,7 @@ tags:
 featured: false
 
 links:
-  - name: DOI
+  - name: Paper
     url: https://doi.org/10.1016/j.atmosenv.2020.118141
 #url_pdf: https://doi.org/10.1016/j.atmosenv.2020.118141
 #url_code: ''
