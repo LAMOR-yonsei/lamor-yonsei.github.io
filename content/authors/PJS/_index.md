@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Seungmin Yu
+title: Joonsung Park
 
 # Full name (for SEO)
-first_name: Seungmin
-last_name: Yu
+first_name: Joonsung
+last_name: Park
 
 # Username (this should match the folder name)
 authors:
-  - YSM
+  - PJS
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,12 +22,12 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests is machine learning application in atmospheric modeling
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Machine Learning-based Atmospheric Model
-  - Physics Parametrization
-  - Numerical-Neural Model Coupling
+  - Machine Learning
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Seungmin Yu
+title: Uju Shun
 
 # Full name (for SEO)
-first_name: Seungmin
-last_name: Yu
+first_name: Uju
+last_name: Shin
 
 # Username (this should match the folder name)
 authors:
-  - YSM
+  - SUJ
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Students
+role: Researchers
 
 # Organizations/Affiliations
 organizations:
@@ -22,18 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests is machine learning application in atmospheric modeling
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Machine Learning-based Atmospheric Model
-  - Physics Parametrization
-  - Numerical-Neural Model Coupling
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   courses:
+    - course: PhD in Atmospheric Science
+      institution: Yonsei University
+      year: 2009
+    - course: M.S. in Atmospheric Science
+      institution: Yonsei University
+      year: 2001
     - course: B.S. in Astro and Atmospheric Science
       institution: Yonsei University
-      year: 2022
+      year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,11 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sminyu@yonsei.ac.kr'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/sminyu
-
+    link: 'mailto:pshun@yonsei.ac.kr'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -54,12 +56,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sminyu@yonsei.ac.kr'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Professor
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
