@@ -8,7 +8,7 @@ last_name: Park
 
 # Username (this should match the folder name)
 authors:
-  - SHP
+  - PSH
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,9 +25,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Numerical Modeling
+  - Mesoscale meteorology
 
 education:
   courses:
