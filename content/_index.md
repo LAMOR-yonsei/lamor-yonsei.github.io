@@ -8,30 +8,31 @@ sections:
   - block: hero
     content:
       title: |
-        LAMOR (Laboratory for Atmospheric Modelling Research)
+        LAMOR
       text: |
         <br>
-        **LAMOR** has been a center of excellence for research, teaching, and practice about **atmospheric modeling** since its founding in 2017.
-  
-  - block: collection
+        
+        Laboratory for Atmospheric Modelling Research (LAMOR) since 2017
+
+  - block: features
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
- 
+      title: Our Research
+      subtitle: Section subtitle
+      text: Section text
+      items:
+        - name: test 1
+          description: 90%
+        - name: test 2
+          description: 100%
+        - name: test 3
+          description: 10%
+        - name: test 4
+          description: 90%
+        - name: test 5
+          description: 100%
+        - name: test 6
+          description: 10%
+
   - block: markdown
     content:
       title:
@@ -51,13 +52,4 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---
