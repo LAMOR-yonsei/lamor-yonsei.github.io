@@ -8,9 +8,12 @@ type: landing
 sections:
   - block: hero
     content:
-      text: |
+      text:  
+
+
         Laboratory for Atmospheric Modelling Research (LAMOR) at Yonsei, since 2017
-        |
+
+        
       cta:
         label: What we study
         url: research/
