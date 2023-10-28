@@ -13,7 +13,7 @@ sections:
       filters:
         # Folders to display content from
         folders:
-          - project_list
+          - project/project_list
         # Only show content with these tags
         tags: ['current', 'previous']
         # Exclude content with these tags
