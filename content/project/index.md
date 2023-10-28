@@ -8,19 +8,17 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      subtitle: 
+      text: 
       filters:
         # Folders to display content from
         folders:
-          - project
+          - project_list
         # Only show content with these tags
-        tags: []
+        tags: ['current', 'previous']
         # Exclude content with these tags
         exclude_tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
-        kinds:
-          - page
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
@@ -36,10 +34,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: In progress
+          tag: current
+        - name: Previous
+          tag: previous
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
