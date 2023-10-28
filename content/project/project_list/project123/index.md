@@ -1,7 +1,7 @@
 ---
 title: Project123123
 summary: Lorm Ipsum Alpha Beta Gamma Delta Ometga bla bla
-project_types:
+tags:
   - current
 date: '2022-04-01T00:00:00Z'
 

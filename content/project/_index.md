@@ -9,18 +9,22 @@ sections:
       title: Projects
       subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      #filters:
-      #  # Folders to display content from
-      #  folders:
-      #    - project
+      filters:
+        # Folders to display content from
+        folders:
+          - project_list
 
-      buttons:
+      filter_button:
         - name: All
-          project_type: '*'
+          tag: '*'
+        - name: Machine Learning
+          tag: ML
+        - name: Computer Vision
+          tag: CV
+        - name: NLP
+          tag: NLP
         - name: Current
-          project_type: current
-        - name: Previous
-          project_type: previous
+          tag: current
 
       default_button_index: 0
       # Default portfolio filter button
