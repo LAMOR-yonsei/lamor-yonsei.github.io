@@ -22,12 +22,11 @@ sections:
         - name: Previous
           project_type: previous
 
-        # Only show content with these tags
       default_button_index: 0
-      # Field to sort by, such as Date or Title
       # Default portfolio filter button
       # 0 corresponds to the first button below and so on
       # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+    
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
