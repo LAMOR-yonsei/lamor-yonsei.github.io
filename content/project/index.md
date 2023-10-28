@@ -25,7 +25,7 @@ sections:
       # Default portfolio filter button
       # 0 corresponds to the first button below and so on
       # For example, 0 will default to showing all content as the first button below shows content with *any* tag
-      default_button_index: 0
+      default_button_index: 1
       # Filter button toolbar (optional).
       # Add or remove as many buttons as you like.
       # To show all content, set `tag` to "*".
@@ -43,7 +43,7 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       # Choose a listing view
-      view: showcase
+      view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 ---
