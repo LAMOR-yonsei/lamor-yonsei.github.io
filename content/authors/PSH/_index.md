@@ -24,7 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Research Experiences
+Research Experiences:
   - 2017-Present Assistant professor, Department of Atmospheric Sciences, Yonsei University
   - 2014-2017 Project Scientist, National Center for Atmospheric Research (NCAR), Boulder, CO, USA
   - 2013-2013 Postdoctoral Fellow, Earth System Laboratory, NCAR, Boulder, CO, USA
