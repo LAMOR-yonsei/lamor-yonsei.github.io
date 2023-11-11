@@ -109,7 +109,7 @@
 
       {{ with $person.experiences }}
       <div class="col-md-6">
-        <div class="section-subheading">{{ i18n "experiences" | markdownify }}</div>
+        <div class="section-subheading">{{ "experiences" | markdownify }}</div>
         <ul class="ul-experiences mb-0">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
