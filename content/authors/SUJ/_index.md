@@ -28,6 +28,9 @@ interests:
   - Mesocale Convective System
   - Heavy Precipitation Systems over the Korean Pennisular
 
+experiences:
+  - '2019-　　 : Postdoctoral Fellow, Yonsei University'
+
 education:
   courses:
     - course: PhD in Atmospheric Science
