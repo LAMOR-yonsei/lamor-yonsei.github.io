@@ -107,17 +107,6 @@
       </div>
       {{ end }}
 
-      {{ with $person.experiences }}
-      <div class="col-md-6">
-        <div class="section-subheading">{{ "experiences" | markdownify }}</div>
-        <ul class="ul-experiences mb-0">
-          {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
       {{ with $person.education }}
       <div class="col-md-7">
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
@@ -134,7 +123,20 @@
         </ul>
       </div>
       {{ end }}
-
     </div>
+
+    <div class="row">
+      {{ with $person.experiences }}
+      <div class="col-md-6">
+        <div class="section-subheading">{{ "Experiences" | markdownify }}</div>
+        <ul class="ul-experiences mb-0">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+
   </div>
 </div>
