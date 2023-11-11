@@ -85,6 +85,7 @@
 
     </div>
   </div>
+
   <div class="col-12 col-lg-8">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
@@ -124,19 +125,19 @@
       </div>
       {{ end }}
     </div>
-
-    <div class="row">
-      {{ with $person.experiences }}
-      <div class="col-md-6">
-        <div class="section-subheading">{{ "Experiences" | markdownify }}</div>
-        <ul class="ul-experiences mb-0">
-          {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-    </div>
-
   </div>
+
+  <div class="row">
+    {{ with $person.experiences }}
+    <div class="col-md-5">
+      <div class="section-subheading">{{ "Experiences" | markdownify }}</div>
+      <ul class="ul-experiences mb-0">
+        {{ range . }}
+        <li>{{ . | markdownify | emojify }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+
 </div>
