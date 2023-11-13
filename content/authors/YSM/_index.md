@@ -16,7 +16,7 @@ order: 4
 superuser: false
 
 # Role/position
-role: Students in Ph.D course
+role: Students in M.S. course
 
 # Organizations/Affiliations
 organizations:
