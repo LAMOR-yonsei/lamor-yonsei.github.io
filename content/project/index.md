@@ -1,49 +1,19 @@
 ---
 title: Projects
-
-type: landing
-
-sections:
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      subtitle: 
-      text: 
-      filters:
-        # Folders to display content from
-        folders:
-          - project_list
-        # Only show content with these tags
-        tags: ['current', 'previous']
-        # Exclude content with these tags
-        exclude_tags: []
-        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-      # Default portfolio filter button
-      # 0 corresponds to the first button below and so on
-      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
-      default_button_index: 1
-      # Filter button toolbar (optional).
-      # Add or remove as many buttons as you like.
-      # To show all content, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the button toolbar, delete the entire `buttons` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: In progress
-          tag: current
-        - name: Previous
-          tag: previous
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      # Choose a listing view
-      view: compact
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+linktitle: Projects
 ---
+## Goals
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+![MPAS_mesh](./mpas_mesh.png)  
+
+
+## Topics
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+
+## Reason
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.'
