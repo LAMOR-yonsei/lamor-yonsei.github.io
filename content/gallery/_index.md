@@ -10,7 +10,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="album_gallery" >}}
+        {{< gallery album="gallery" >}}
     design:
       columns: '1'
 ---
