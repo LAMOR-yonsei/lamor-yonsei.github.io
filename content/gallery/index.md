@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Gallery'
+title: Gallery
 date: 2023-12-29
 type: landing
 
@@ -10,7 +10,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="gallery" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
 ---
