@@ -18,10 +18,6 @@ publication: '*Journal of Advances in Modeling Earth Systems, 14(6)*'
 abstract: ''
 
 tags:
-  - deep convection parameterization
-  - aquaplanet
-  - model resolution
-  - climate model
 
 featured: false
 
