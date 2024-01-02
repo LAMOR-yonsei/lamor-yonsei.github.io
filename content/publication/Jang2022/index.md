@@ -9,8 +9,8 @@ authors:
   - Koichi Sakaguchi
   - L. Ruby Leung
 
-date: '2022-05-29T00:00:00Z'
-publishDate: '2022-05-29T00:00:00Z'
+date: '2022-06-14T00:00:00Z'
+publishDate: '2022-06-14T00:00:00Z'
 publication_types: ['2']
 
 publication: '*Journal of Advances in Modeling Earth Systems, 14(6)*'

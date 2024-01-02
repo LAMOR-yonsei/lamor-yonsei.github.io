@@ -12,8 +12,8 @@ authors:
   - PSH
   - Jooneun An
 
-date: '2023-01-31T00:00:00Z'
-publishDate: '2023-01-31T00:00:00Z'
+date: '2023-02-07T00:00:00Z'
+publishDate: '2023-02-07T00:00:00Z'
 publication_types: ['2']
 
 publication: '*Journal of Geophysical Research: Atmospheres, 128(3)*'
