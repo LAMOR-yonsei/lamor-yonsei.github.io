@@ -13,7 +13,6 @@ authors:
 #  - "**"
 
 date: '2021-02-01T00:00:00Z'
-doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-02-01T00:00:00Z'
@@ -43,6 +42,7 @@ summary: We investigate atmospheric blocking index forecast can be useful for mi
 tags:
   - Atmospheric blocking
   - Air quality prediction
+  - PM2.5 concentration in seoul
   - Predictability of PM2.5
 featured: true
 
