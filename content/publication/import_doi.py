@@ -51,15 +51,16 @@ except ValueError:
 
 try:
     os.makedirs(f'{dir_name}')
+    f = open(f'{dir_name}/index.md', 'w')
 except FileExistsError:
     for ii in range(2,10):
         try:
             os.makedirs(f'{dir_name}_{ii}')
+            f = open(f'{dir_name}_{ii}/index.md', 'w')
             break
         except FileExistsError:
             pass
 
-f = open(f'{dir_name}/index.md', 'w')
 f.write('---\n')
 f.write(f"title: '{title}'\n")
 f.write('\n')
