@@ -20,7 +20,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: Yonsei University
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
