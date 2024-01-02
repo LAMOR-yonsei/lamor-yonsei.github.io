@@ -41,6 +41,11 @@ dir_name = data_dict['author'][0] + data_dict['year'][0]
 doi_url = f'https://doi.org/{doi_input}'
 journal = data_dict['journal'][0]
 volume = data_dict['volume'][0]
+try: 
+    number = data_dict['number'][0]
+except ValueError:
+    number = None
+
 
 os.makedirs(f'{dir_name}')
 
@@ -55,15 +60,18 @@ f.write(f"date: '{int(dir_name[-4:])}-01-01T00:00:00Z'\n")
 f.write(f"publishDate: '{int(dir_name[-4:])}-01-01T00:00:00Z'\n")
 f.write("publication_types: ['2']\n")
 f.write('\n')
-f.write(f"publication: '*{journal}, {volume}*'\n")
-f.write("publication_short: '**'\n")
+if number is None:
+    f.write(f"publication: '*{journal}, {volume}*'\n")
+else:
+    f.write(f"publication: '*{journal}, {volume}({number})*'\n")
+f.write("publication_short: \n")
 f.write('\n')
 f.write("abstract: ''\n")
 f.write('\n')
 f.write('tags:\n')
 f.write('  - \n')
 f.write('\n')
-f.write('featured: true\n')
+f.write('featured: false\n')
 f.write('\n')
 f.write('links:\n')
 f.write('  - name: Paper\n')
