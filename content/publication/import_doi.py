@@ -37,10 +37,13 @@ for pair in pairs:
         pass
 
 title = data_dict['title'][0]
-dir_name = data_dict['author'][0] + data_dict['year'][0]
 doi_url = f'https://doi.org/{doi_input}'
 journal = data_dict['journal'][0]
 volume = data_dict['volume'][0]
+year = data_dict['year'][0]
+author = data_dict['author'][0]
+dir_name = author + year
+
 try: 
     number = data_dict['number'][0]
 except ValueError:
@@ -48,11 +51,13 @@ except ValueError:
 
 try:
     os.makedirs(f'{dir_name}')
-except FileExistsError
-    try:
-        os.makedirs(f'{dir_name}_2')
-    except FileExistsError
-        os.makedirs(f'{dir_name}_3')
+except FileExistsError:
+    for ii in range(2,10):
+        try:
+            os.makedirs(f'{dir_name}_{ii}')
+            break
+        except FileExistsError:
+            pass
 
 f = open(f'{dir_name}/index.md', 'w')
 f.write('---\n')
@@ -61,8 +66,8 @@ f.write('\n')
 f.write('authors:\n')
 f.write('  - \n')
 f.write('\n')
-f.write(f"date: '{int(dir_name[-4:])}-01-01T00:00:00Z'\n")
-f.write(f"publishDate: '{int(dir_name[-4:])}-01-01T00:00:00Z'\n")
+f.write(f"date: '{year}-01-01T00:00:00Z'\n")
+f.write(f"publishDate: '{year}-01-01T00:00:00Z'\n")
 f.write("publication_types: ['2']\n")
 f.write('\n')
 if number is None:
