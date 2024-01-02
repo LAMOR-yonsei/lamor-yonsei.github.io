@@ -33,7 +33,7 @@ publishDate: '2022-02-28T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Applied Sciences 12*'
+publication: '*Applied Sciences, 12(5)*'
 
 abstract: 'Currently, significant efforts are being made to enhance the performance of the National Institute of Environmental Research (NIER) operational model. However, the model performance concerning Aerosol Optical Depth (AOD) estimation remains uninvestigated. In this study, three different estimation methods for AOD were implemented using the NIER operational model and validated with satellite and ground observations. In the widely used Interagency Monitoring of Protected Visual Environments (IMPROVE) method, AOD exponentially increases with relative humidity owing to a hygroscopic growth factor. However, alternative methods show better performance, since AOD estimation considers the size dependency of aerosol particles and is not sensitive to high relative humidity, which reduces the high AOD in areas with large cloud fractions. Although some R values are significantly low, especially for a single observational comparison and small numerical domain analysis, one of the alternative estimation methods achieves the best performance for diagnosing AOD in the East Asia region.'
 
