@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Inpyo
+title: Inpyo Park
 
 # Full name (for SEO)
 first_name: Inpyo
