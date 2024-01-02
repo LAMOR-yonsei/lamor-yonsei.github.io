@@ -46,8 +46,13 @@ try:
 except ValueError:
     number = None
 
-
-os.makedirs(f'{dir_name}')
+try:
+    os.makedirs(f'{dir_name}')
+except FileExistsError
+    try:
+        os.makedirs(f'{dir_name}_2')
+    except FileExistsError
+        os.makedirs(f'{dir_name}_3')
 
 f = open(f'{dir_name}/index.md', 'w')
 f.write('---\n')
