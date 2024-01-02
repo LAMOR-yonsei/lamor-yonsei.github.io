@@ -11,8 +11,6 @@ authors:
 
 # Date that the paper is published
 date: '2020-07-14T00:00:00Z'
-doi: ''
-
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-07-14T00:00:00Z'
