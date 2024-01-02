@@ -14,7 +14,6 @@ publishDate: '2022-05-29T00:00:00Z'
 publication_types: ['2']
 
 publication: '*Journal of Advances in Modeling Earth Systems, 14(6)*'
-publication_short:
 
 abstract: ''
 
