@@ -9,8 +9,8 @@ authors:
   - Dong-Hyun Cha
   - Eun Jeong Cha
 
-date: '2023-01-01T00:00:00Z'
-publishDate: '2023-01-01T00:00:00Z'
+date: '2023-12-01T00:00:00Z'
+publishDate: '2023-12-01T00:00:00Z'
 publication_types: ['2']
 
 publication: '*Monthly Weather Review, 151(12)*'
