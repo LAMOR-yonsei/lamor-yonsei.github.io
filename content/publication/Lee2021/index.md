@@ -10,10 +10,10 @@ authors:
 #  - "**"
 
 # Date that the paper is published
-date: '2020-07-14T00:00:00Z'
+date: '2021-08-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-07-14T00:00:00Z'
+publishDate: '2021-08-01T00:00:00Z'
 
 # Publication type.
 # Legend: 

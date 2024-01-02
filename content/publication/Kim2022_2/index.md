@@ -6,8 +6,8 @@ authors:
   - Changhyun Yoo
   - PSH
 
-date: '2022-12-17T00:00:00Z'
-publishDate: '2022-12-17T00:00:00Z'
+date: '2023-02-01T00:00:00Z'
+publishDate: '2023-02-01T00:00:00Z'
 publication_types: ['2']
 
 publication: '*Theoretical and Applied Climatology, 151(3–4)*'
