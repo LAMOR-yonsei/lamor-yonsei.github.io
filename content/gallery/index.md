@@ -3,4 +3,4 @@ title: Gallery
 linktitle: Gallery
 ---
 
-{{< gallery album="demo" >}}
+{{< gallery album="demo" order="desc" >}}
