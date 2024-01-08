@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Chimook Oh
+title: Seungwoo Ryu
 
 # Full name (for SEO)
-first_name: Chimook
-last_name: Oh
+first_name: Seungwoo
+last_name: Ryu
 
 # Username (this should match the folder name)
 authors:
-  - OCM
+  - RSW
 
-order: 1
+order: 2
 
 # Is this the primary user of the site?
 superuser: false
@@ -32,17 +32,16 @@ education:
   courses:
     - course: M.S. in Atmospheric Science
       institution: Yonsei University
-      year: 2020 
-    - course: B.S. in Millitary Strategy
-      institution: Korea Airforce Academy
-      year: 2009
+      year: 2021
+    - course: B.S. in Physics
+      institution: The Catholic University of Korea
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,3 +61,4 @@ highlight_name: true
 user_groups:
   - Alumni
 ---
+
