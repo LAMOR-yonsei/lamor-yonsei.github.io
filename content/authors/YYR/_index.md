@@ -10,7 +10,7 @@ last_name: Yun
 authors:
   - YYR
 
-order: 1
+order: 4
 
 # Is this the primary user of the site?
 superuser: false
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-    - course: B.S. in Astro and Atmospheric Science
+    - course: B.S. in Atmospheric Science
       institution: Yonsei University
-      year: 2022
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

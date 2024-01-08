@@ -30,9 +30,12 @@ interests:
 
 education:
   courses:
-    - course: B.S. in Astro and Atmospheric Science
+    - course: M.S. in Atmospheric Science
       institution: Yonsei University
       year: 2022
+    - course: B.S. in Atmospheric Science
+      institution: Yonsei University
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
