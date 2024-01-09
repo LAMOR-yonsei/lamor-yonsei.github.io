@@ -24,7 +24,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests is applied machine learning in atmospheric modeling
+bio: My research interest is applied machine learning in atmospheric modeling
 
 interests:
   - Machine Learning-based Atmospheric Model
@@ -68,4 +68,4 @@ user_groups:
   - Students
 ---
 
-I would like to develop scalable and explainable machine learning-based weather prediction models based on previous studies of numerical modeling and weather forecasting.
+I aim to develop scalable and interpretable machine learning models for weather prediction, drawing on insights from previous studies in numerical modeling and weather forecasting.
