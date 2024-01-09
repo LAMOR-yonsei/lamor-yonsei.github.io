@@ -17,7 +17,7 @@ order: 0
 superuser: false
 
 # Role/position
-role: Students
+role: Student in Ph.D. course
 
 # Organizations/Affiliations
 organizations:
@@ -25,18 +25,22 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Machine Learning-based Atmospheric Model
-  - Exreme weather forecasting and nowcasting
-  - Numerical-Neural Model Coupling
+  - Atmospheric Modeling
+  - Air quality modeling
+
 
 education:
   courses:
-    - course: B.S. in Atmospheric Science
+    - course: M.S. in Atmospheric Science
       institution: Yonsei University
-      year: 2022
+      year: 2020
+    - course: B.S. in Atmospheric Science
+      institution: Kongju National University
+      year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,10 +49,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sminyu@yonsei.ac.kr'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/sminyu
+    link: 'mailto:haejin0828@yonsei.ac.kr'
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sminyu@yonsei.ac.kr'
+email: 'haejin0828@yonsei.ac.kr'
 
 #highlight the name in publishment
 highlight_name: true
@@ -67,5 +69,3 @@ highlight_name: true
 user_groups:
   - Students
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
