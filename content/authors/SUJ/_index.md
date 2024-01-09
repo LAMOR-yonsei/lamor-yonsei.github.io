@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
   - Mesocale Convective System
@@ -39,7 +39,7 @@ education:
     - course: M.S. in Atmospheric Science
       institution: Yonsei University
       year: 2010
-    - course: B.S. in Astro and Atmospheric Science
+    - course: B.S. in Atmospheric Science
       institution: Yonsei University
       year: 2008
 
@@ -68,5 +68,3 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
