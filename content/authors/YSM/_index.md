@@ -16,7 +16,7 @@ order: 4
 superuser: false
 
 # Role/position
-role: Students in M.S. course
+role: Student in M.S. course
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ interests:
 
 education:
   courses:
-    - course: B.S. in Astro and Atmospheric Science
+    - course: B.S. in Atmospheric Science
       institution: Yonsei University
       year: 2022
 
