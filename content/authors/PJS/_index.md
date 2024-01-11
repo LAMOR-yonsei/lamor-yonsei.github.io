@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-    - course: M.A. in Atmospheric Science
+    - course: M.S. in Atmospheric Science
       institution: Yonsei University
       year: 2019
     - course: B.S. in Atmospheric Science
