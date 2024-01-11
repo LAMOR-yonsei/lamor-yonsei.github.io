@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Joon-sung Park
+title: Joonsung Park
 
 # Full name (for SEO)
-first_name: Joon-sung
+first_name: Joonsung
 last_name: Park
 
 # Username (this should match the folder name)
@@ -27,15 +27,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Machine Learning
-  - Computational Linguistics
-  - Information Retrieval
+  - Dynamical core of atmospheric models
+  - Cloud resolving model
 
 education:
   courses:
-    - course: B.S. in Astro and Atmospheric Science
+    - course: M.A. in Atmospheric Science
       institution: Yonsei University
-      year: 2022
+      year: 2019
+    - course: B.S. in Atmospheric Science
+      institution: Yonsei University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,10 +46,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sminyu@yonsei.ac.kr'
+    link: 'mailto:ippjs089@yonsei.ac.kr'
   - icon: github
     icon_pack: fab
-    link: https://github.com/sminyu
+    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -56,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sminyu@yonsei.ac.kr'
+email: 'ippjs089@yonsei.ac.kr'
 
 #highlight the name in publishment
 highlight_name: true
