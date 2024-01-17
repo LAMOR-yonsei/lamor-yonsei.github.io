@@ -17,7 +17,7 @@ order: 5
 superuser: false
 
 # Role/position
-role: Students
+role: Student in M.S. course
 
 # Organizations/Affiliations
 organizations:
@@ -25,18 +25,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
-  - Machine Learning
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning-based Atmospheric Model
+  - Numerical Modeling
 
 education:
   courses:
-    - course: B.S. in Astro and Atmospheric Science
-      institution: Yonsei University
-      year: 2022
+    - course: B.S. in Military strategy
+      institution: Korea Airforce Academy
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,10 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sminyu@yonsei.ac.kr'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/sminyu
+    link: 'mailto:bacccold@yonsei.ac.kr'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sminyu@yonsei.ac.kr'
+email: 'bacccold@yonsei.ac.kr'
 
 #highlight the name in publishment
 highlight_name: true
@@ -68,5 +64,3 @@ highlight_name: true
 user_groups:
   - Students
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

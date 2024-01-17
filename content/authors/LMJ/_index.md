@@ -16,7 +16,7 @@ order: 2
 superuser: false
 
 # Role/position
-role: Students
+role: Student in Ph.D. course
 
 # Organizations/Affiliations
 organizations:
@@ -27,15 +27,18 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Machine Learning
-  - Computational Linguistics
-  - Information Retrieval
+  - Numerical Modeling
+  - Model predictability
+  - Wave dynamic
 
 education:
   courses:
+    - course: M.S. in Atmospheric Science
+      institution: Yonsei University
+      year: 2023
     - course: B.S. in Astro and Atmospheric Science
       institution: Yonsei University
-      year: 2022
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,10 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sminyu@yonsei.ac.kr'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/sminyu
+    link: 'mailto:mjae@yonsei.ac.kr'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -56,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sminyu@yonsei.ac.kr'
+email: 'mjae@yonsei.ac.kr'
 
 #highlight the name in publishment
 highlight_name: true
@@ -67,5 +67,3 @@ highlight_name: true
 user_groups:
   - Students
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
