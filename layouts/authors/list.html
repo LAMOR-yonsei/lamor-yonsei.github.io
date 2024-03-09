@@ -26,10 +26,11 @@
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       <ul>
-        {{ range $index, $element := (slice $query 0 5) }}
-        <li>
-          <a href="{{ $element.RelPermalink }}">{{ $element.Title }}</a>
-        </li>    
+        {{ $limitedTitles := slice $query 0 5 }}
+        {{ range $limitedTitles }}
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
         {{ end }}
       </ul>
     </div>
