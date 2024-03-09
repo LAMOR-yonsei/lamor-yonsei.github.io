@@ -26,16 +26,14 @@
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       <ul>
-        {{ range $query }}
-          {{ if lt $count 5 }}
-            <li>
-              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            </li>
-            {{ $count = add $count 1 }}
-          {{ end }}
+        {{ range first 5 $query }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
         {{ end }}
       </ul>
     </div>
+
     {{ end }}
   </div>
 </section>
