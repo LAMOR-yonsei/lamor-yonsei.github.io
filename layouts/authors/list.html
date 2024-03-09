@@ -27,9 +27,12 @@
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       <ul>
         {{ range $query }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </li>
+          {{ if lt $count 5 }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+            {{ $count = add $count 1 }}
+          {{ end }}
         {{ end }}
       </ul>
     </div>
