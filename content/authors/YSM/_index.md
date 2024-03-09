@@ -16,7 +16,7 @@ order: 4
 superuser: false
 
 # Role/position
-role: Student in M.S. course
+role: Student in Ph.D. course
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,15 @@ organizations:
 bio: My research interest is applied machine learning in atmospheric modeling
 
 interests:
-  - Machine Learning-based Atmospheric Model
+  - Machine Learning-based atmospheric model
+  - Predictability of atmosphere
   - Extreme weather
-  - Numerical-Neural Model Coupling
 
 education:
   courses:
+    - course: M.S. in Atmospheric Science
+      institution: Yonsei University
+      year: 2024
     - course: B.S. in Atmospheric Science
       institution: Yonsei University
       year: 2022

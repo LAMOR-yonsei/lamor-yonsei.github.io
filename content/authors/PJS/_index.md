@@ -16,7 +16,7 @@ order: 1
 superuser: false
 
 # Role/position
-role: Students
+role: Student in Ph.D. course
 
 # Organizations/Affiliations
 organizations:
@@ -47,9 +47,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ippjs089@yonsei.ac.kr'
-  - icon: github
-    icon_pack: fab
-    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -69,5 +66,3 @@ highlight_name: true
 user_groups:
   - Students
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Researchers
+role: Academic research professor
 
 # Organizations/Affiliations
 organizations:
