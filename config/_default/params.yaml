@@ -20,10 +20,7 @@ marketing:
     org_name: ''
     description: 'Laboratory for Atmospheric Modelling Research in Yonsei'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
+    google_tag_manager: 'GTM-5QDF6V3V'
   verification:
     google: ''
     baidu: ''
