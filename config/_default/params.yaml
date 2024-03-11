@@ -21,6 +21,7 @@ marketing:
     description: 'Laboratory for Atmospheric Modelling Research in Yonsei'
   analytics:
     google_tag_manager: 'GTM-5QDF6V3V'
+    google_analytics: 'G-D3FW8L96L7'
   verification:
     google: ''
     baidu: ''
