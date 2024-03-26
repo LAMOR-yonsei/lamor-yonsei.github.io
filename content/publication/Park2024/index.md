@@ -19,7 +19,7 @@ abstract: "Planetary waves from the troposphere are known to play an important r
 tags:
   - 
 
-featured: false
+featured: true
 
 links:
   - name: Paper
