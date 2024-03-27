@@ -18,6 +18,12 @@ sections:
         label: Who we are
         url: members/
 
+      announcement:
+        text: "Announcing the release of version 2."
+        link:
+          text: "Read more"
+          url: "/contact/"
+
     design:
       # Choose an optional background color, gradient, image, or video
       background:
