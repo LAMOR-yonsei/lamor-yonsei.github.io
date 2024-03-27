@@ -15,17 +15,18 @@
     {{ if $block.content.announcement.text }}
     {{ $announcement := $block.content.announcement }}
 
-    <div class="d-none mb-4 d-sm-flex justify-content-center">
-        <div class="position-relative rounded-circle px-3 py-1 font-weight-normal text-primary" style="border: 2px solid rgba(0, 0, 0, 0.1); border-radius: 20px; padding: 5px;">
+ 
+    <div class="mb-4 d-sm-flex justify-content-center">
+        <div class="position-relative rounded-pill px-3 py-1 font-weight-normal text-muted border border-white" style="padding: 0.5rem;">
             {{$announcement.text | markdownify}} 
             {{if $announcement.link.text}}
-              <a href="{{$announcement.link.url}}" class="font-weight-bold text-primary" style="text-decoration: none;">
-                {{$announcement.link.text}} <span>&rarr;</span>
-              </a>
+                <a href="{{$announcement.link.url}}" class="font-weight-bold text-muted" style="text-decoration: none;">
+                    {{$announcement.link.text}} <span>&rarr;</span>
+                </a>
             {{end}}
         </div> 
-      </div>
-      
+    </div>
+
     {{end}}
 
 
