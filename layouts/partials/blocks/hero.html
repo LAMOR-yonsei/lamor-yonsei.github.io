@@ -14,12 +14,20 @@
 
     {{ if $block.content.announcement.text }}
     {{ $announcement := $block.content.announcement }}
+
     <div class="d-none mb-4 d-sm-flex justify-content-center">
-        <div class="position-relative rounded-pill px-3 py-1 small font-weight-normal text-gray-600">
-        {{$announcement.text | markdownify}} {{if $announcement.link.text}}<a href="{{$announcement.link.url}}" class="font-weight-bold text-primary"><span class="position-absolute"></span>{{$announcement.link.text}} <span>&rarr;</span></a>{{end}}
-        </div>
-    </div>
+        <div class="position-relative rounded-circle px-3 py-1 font-weight-normal text-primary" style="border: 2px solid rgba(0, 0, 0, 0.1); border-radius: 20px; padding: 5px;">
+            {{$announcement.text | markdownify}} 
+            {{if $announcement.link.text}}
+              <a href="{{$announcement.link.url}}" class="font-weight-bold text-primary" style="text-decoration: none;">
+                {{$announcement.link.text}} <span>&rarr;</span>
+              </a>
+            {{end}}
+        </div> 
+      </div>
+      
     {{end}}
+
 
     {{ with $block.content.title }}
       <h1 class="hero-title">{{ . | markdownify }}</h1>
