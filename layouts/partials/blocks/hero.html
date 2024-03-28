@@ -17,10 +17,10 @@
 
  
     <div class="mb-4 d-sm-flex justify-content-center">
-        <div class="position-relative rounded-pill px-3 py-1 font-weight-normal text-muted border border-white" style="padding: 0.5rem;">
+        <div class="position-relative rounded-pill px-3 py-1 font-weight-normal text-white border border-white" style="padding: 0.5rem;">
             {{$announcement.text | markdownify}} 
             {{if $announcement.link.text}}
-                <a href="{{$announcement.link.url}}" class="font-weight-bold text-muted" style="text-decoration: none;">
+                <a href="{{$announcement.link.url}}" class="font-weight-bold text-white" style="text-decoration: none;">
                     {{$announcement.link.text}} <span>&rarr;</span>
                 </a>
             {{end}}
