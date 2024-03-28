@@ -19,7 +19,7 @@ sections:
         url: members/
 
       announcement:
-        text: "Out internship is open"
+        text: "Out internship is open.  "
         link:
           text: "Contact"
           url: "/contact/"
