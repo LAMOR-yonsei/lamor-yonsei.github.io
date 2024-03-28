@@ -9,7 +9,7 @@ sections:
   - block: hero
     content:
       text:  
-        Laboratory for Atmospheric Modelling Research (LAMOR), since 2017
+        Laboratory for Atmospheric Modelling Research (LAMOR)
 
       cta:
         label: What we study
@@ -19,7 +19,7 @@ sections:
         url: members/
 
       announcement:
-        text: "Our internship is open.  "
+        text: "Our internship is open.　"
         link:
           text: "Contact"
           url: "/contact/"
