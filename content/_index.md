@@ -22,7 +22,7 @@ sections:
         text: "Our internship program is open.　"
         link:
           text: "Contact"
-          url: "/contact/"
+          url: "/internship/"
 
     design:
       # Choose an optional background color, gradient, image, or video
