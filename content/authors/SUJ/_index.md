@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'shinuju@yonsei.ac.kr'
 
 #highlight the name in publishment
 highlight_name: true
