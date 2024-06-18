@@ -20,4 +20,5 @@ We are also deeply engaged in understanding the phenomenon known as the 'Butterf
 Another major area of our research involves the study of mesoscale convective systems, particularly those associated with heavy rainfall during the Changma, or East Asia Monsoon, in Korea. These systems pose significant simulation challenges, especially in terms of their onset and detailed dynamics. By employing high-resolution models, we seek to enhance our understanding and forecasting of these summer-time convective events.
 　  
 #### AI for Weather Prediction
+![MPAS and GNN simulations](./mpas_ani.gif)
 Additionally, we are exploring the use of artificial intelligence in atmospheric simulation. While AI for weather prediction is still in its early stages compared to traditional model simulation, it holds substantial potential for enhancing predictive performance. Inspired by the visionary ideas of Lewis Fry Richardson in the 1920s, who imagined a vast computational system for weather prediction, we are committed to developing a robust AI-driven prediction system for the future.
