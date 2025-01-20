@@ -149,7 +149,7 @@ svg {
     // Satisfy Lighthouse criteria even if a lazy image hasn't loaded yet.
     min-height: 48px;
     min-width: 48px;
-    image-orientation: from-image;
+    transform: rotate(0deg);
   }
 
   &:after {
