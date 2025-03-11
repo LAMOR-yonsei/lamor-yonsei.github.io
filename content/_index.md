@@ -18,11 +18,11 @@ sections:
         label: Who we are
         url: members/
 
-      announcement:
-        text: "Our internship program is open.　"
-        link:
-          text: "Contact"
-          url: "/internship/"
+      #announcement:
+        #text: "Our internship program is open.　"
+        #link:
+        #  text: "Contact"
+        #  url: "/internship/"
 
     design:
       # Choose an optional background color, gradient, image, or video

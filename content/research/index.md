@@ -7,18 +7,18 @@ Our team is dedicated to advancing the capabilities of atmospheric models to sim
 　  
 
 ## Current Areas of Focus
-#### Model Development
+#### Model Development 💻
 ![Mesh of MPAS](./mpas_mesh.png)
 In the realm of model development, we primarily utilize the Weather Research and Forecasting (WRF) model and the Model for Prediction Across Scales (MPAS). Our objective is to enhance the fidelity and accuracy of these models, particularly for high-resolution simulations. We focus on refining numerical methods to improve the overall shape and performance of the models.
 　  
-#### Error Growth
+#### Error Growth and Predictability 🦋
 ![Error Growth](./error_growth.gif)
 We are also deeply engaged in understanding the phenomenon known as the 'Butterfly Effect' in atmospheric dynamics, which illustrates how minor changes can lead to significant impacts. Through high-resolution modeling experiments, we aim to better understand and quantify this chaotic behavior using modern computational techniques.
 　  
-#### Mesoscale Convective System (MCS)
+#### Mesoscale Convective System (MCS) ⛈️
 ![Mesoscale Convective System](./mcs_photo.jpg)
 Another major area of our research involves the study of mesoscale convective systems, particularly those associated with heavy rainfall during the Changma, or East Asia Monsoon, in Korea. These systems pose significant simulation challenges, especially in terms of their onset and detailed dynamics. By employing high-resolution models, we seek to enhance our understanding and forecasting of these summer-time convective events.
 　  
-#### AI for Weather Prediction
+#### AI for Weather Prediction ✨
 ![MPAS and GNN simulations](./mpas_ani.gif)
 Additionally, we are exploring the use of artificial intelligence in atmospheric simulation. While AI for weather prediction is still in its early stages compared to traditional model simulation, it holds substantial potential for enhancing predictive performance. Inspired by the visionary ideas of Lewis Fry Richardson in the 1920s, who imagined a vast computational system for weather prediction, we are committed to developing a robust AI-driven prediction system for the future.
