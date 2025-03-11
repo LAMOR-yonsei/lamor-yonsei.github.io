@@ -17,7 +17,7 @@ order: 5
 superuser: false
 
 # Role/position
-role: Student in M.S. course
+role:
 
 # Organizations/Affiliations
 organizations:
@@ -33,6 +33,9 @@ interests:
 
 education:
   courses:
+    - course: M.S. in Atmospheric Science
+      institution: Yonsei University
+      year: 2025
     - course: B.S. in Military strategy
       institution: Korea Airforce Academy
       year: 2014
@@ -62,5 +65,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - Alumni
 ---
