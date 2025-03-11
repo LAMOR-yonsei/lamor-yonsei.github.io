@@ -28,11 +28,11 @@ jobs:
           # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v4
         with:
           hugo-version: '0.119.0'
           extended: true
-      - uses: actions/cache@v3
+      - uses: actions/cache@v4
         with:
           path: /home/runner/.cache/hugo_cache # Cache path for Hugo v0.116.0+
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
@@ -44,7 +44,7 @@ jobs:
         run: |
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
@@ -58,4 +58,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
