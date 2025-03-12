@@ -2,8 +2,7 @@
 title: Internship Program
 linktitle: internship
 ---
-The internship application procedure is temporarily closed. 😥
-Contact us freely if you are interested in our lab. 
+Contact us freely if you are interested in our lab. Anyone interested is welcome! 😎    
 Our research topics are introduced [here](https://lamor.yonsei.ac.kr/research/).
 
 #### Contact
