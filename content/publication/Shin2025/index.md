@@ -1,5 +1,6 @@
 ---
-title: 'Synoptic Features of August Heavy Rainfall Episodes Accompanied By a Quasi-Stationary Front Over the Korean Peninsula and Its Relationship With the Western Pacific Subtropical High'
+title: 'Comparison of Numerical Characteristics in the Regional Model for Prediction across Scales (MPAS) and Weather Research and Forecasting (WRF) Models Using Low-Level Wind Analysis during Heavy Snowfall Episodes over Complex Terrain'
+
 authors:
   - SUJ
   - PSH
