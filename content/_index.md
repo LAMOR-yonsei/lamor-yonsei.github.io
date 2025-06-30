@@ -18,11 +18,11 @@ sections:
         label: Who we are
         url: members/
 
-      #announcement:
-        #text: "Our internship program is open.　"
-        #link:
-        #  text: "Contact"
-        #  url: "/internship/"
+      announcement:
+        text: "Internship program is open.　"
+        link:
+          text: "Contact"
+          url: "/internship/"
 
     design:
       # Choose an optional background color, gradient, image, or video
@@ -66,7 +66,7 @@ sections:
 
   - block: tag_cloud
     content:
-      title: Our research keywords
+      title: Research Keywords
       taxonomy: tags
       # Choose how many tags you would like to display (0 = all tags)
       count: 0
