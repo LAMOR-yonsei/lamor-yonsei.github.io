@@ -29,7 +29,8 @@ interests:
   - Heavy Precipitation Systems over the Korean Pennisular
 
 experiences:
-  - '2019-　　 : Postdoctoral Fellow, Yonsei University'
+  - '2022-　　 : Academic research professor, Yonsei University'
+  - '2019-2022: Postdoctoral Fellow, Yonsei University'
 
 education:
   courses:
