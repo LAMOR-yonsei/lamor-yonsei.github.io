@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Sang-Hun Park
+title: Haerin Park
 
 # Full name (for SEO)
-first_name: Sang-Hun
+first_name: Haerin
 last_name: Park
 
 # Username (this should match the folder name)
 authors:
-  - PSH
+  - PHR
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -24,27 +24,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-experiences:
-  - '2017-　　 : Assistant professor, Department of Atmospheric Sciences, Yonsei University'
-  - '2014-2017 : Project Scientist, National Center for Atmospheric Research (NCAR), Boulder, CO, USA'
-  - '2013-2013 : Postdoctoral Fellow, Earth System Laboratory, NCAR, Boulder, CO, USA'
-  - '2011-2012 : Advanced Study Program (ASP), NCAR, Boulder, CO, USA'
-
 interests:
-  - Numerical Modeling
-  - Mesoscale meteorology
+  - Development and Improvement of Numerical Models (Parameterization Scheme)
+  - Regional Climate Modeling
+  - High Impact Weather Prediction (Heavy Precipitation)
+
+experiences:
+  - '2025-　　 : Postdoctoral researcher, Yonsei University'
+  - '2024-2025: Postdoctoral researcher, Ulsan National Institute of Science and Technology'
 
 education:
   courses:
-    - course: Ph.D. in Atmospheric Science
-      institution: Yonsei University
-      year: 2009
-    - course: M.S. in Atmospheric Science
-      institution: Yonsei University
-      year: 2001
-    - course: B.S. in Astro and Atmospheric Science
-      institution: Yonsei University
-      year: 1999
+    - course: Ph.D. in Disaster Management Engineering
+      institution: Ulsan National Institute of Science and Technology
+      year: 2024
+    - course: B.S. in Environmental Atmospheric Sciences
+      institution: Pukyong National University
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pshun@yonsei.ac.kr'
+    link: 'mailto:hrpark0323@yonsei.ac.kr'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'pshun@yonsei.ac.kr'
+email: 'hrpark0323@yonsei.ac.kr'
 
 #highlight the name in publishment
 highlight_name: true
@@ -69,6 +65,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Professor
+  - Researchers
 ---
-

@@ -34,7 +34,7 @@ experiences:
 
 education:
   courses:
-    - course: PhD in Atmospheric Science
+    - course: Ph.D. in Atmospheric Science
       institution: Yonsei University
       year: 2019
     - course: M.S. in Atmospheric Science
