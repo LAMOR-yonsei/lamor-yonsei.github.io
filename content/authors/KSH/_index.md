@@ -34,7 +34,7 @@ education:
   courses:
     - course: B.S. in Atmospheric Science
       institution: Yonsei University
-      year: 2026 (Expexted)
+      year: 2026 (Expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
