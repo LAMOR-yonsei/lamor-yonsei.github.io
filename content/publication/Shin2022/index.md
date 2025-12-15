@@ -38,11 +38,11 @@ abstract: 'In this study, we investigated the synoptic features of the August 26
 summary:
 # Keywords
 tags:
-  - heavy rainfall
+  - Heavy rainfall
   - August rainfall
-  - changma
-  - quasi-stationary front
-  - west pacific subtropical high index
+  - Changma
+  - Quasi-stationary front
+  - West pacific subtropical high index
 
 featured: true
 
