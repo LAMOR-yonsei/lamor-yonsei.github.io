@@ -38,7 +38,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 5
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -63,17 +63,18 @@ sections:
       view: compact
       # Choose single or dual column layout
       columns: '1'
-
-  - block: tag_cloud
-    content:
-      title: Research Keywords
-      taxonomy: tags
-      # Choose how many tags you would like to display (0 = all tags)
-      count: 0
-    design:
-      # Minimum and maximum font sizes (1.0 = 100%).
-      font_size_min: 1.0
-      font_size_max: 2.5
-
 ---
+
+#  - block: tag_cloud
+#    content:
+#      title: Research Keywords
+#      taxonomy: tags
+#      # Choose how many tags you would like to display (0 = all tags)
+#      count: 0
+#    design:
+#      # Minimum and maximum font sizes (1.0 = 100%).
+#      font_size_min: 1.0
+#      font_size_max: 2.5
+
+
 
