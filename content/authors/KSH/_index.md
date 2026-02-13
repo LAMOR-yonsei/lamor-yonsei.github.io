@@ -16,7 +16,7 @@ order: 1
 superuser: false
 
 # Role/position
-role: Undergraduate internship
+role: Student in M.S. course
 
 # Organizations/Affiliations
 organizations:
@@ -34,7 +34,7 @@ education:
   courses:
     - course: B.S. in Atmospheric Science
       institution: Yonsei University
-      year: 2026 (Expected)
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,5 +61,6 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Intern
+  - Students
+  
 ---
