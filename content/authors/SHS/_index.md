@@ -16,7 +16,7 @@ order: 6
 superuser: false
 
 # Role/position
-role:
+role: Student in M.S. course
 
 # Organizations/Affiliations
 organizations:
@@ -61,5 +61,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Student
+  - Students
 ---
