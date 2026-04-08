@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Seohyeon Kim
+title: Hyunseok Song
 
 # Full name (for SEO)
-first_name: Seohyeon
-last_name: Kim
+first_name: Hyunseok
+last_name: Song
 
 # Username (this should match the folder name)
 authors:
-  - KSH
+  - SHS
 
-order: 5
+order: 6
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student in M.S. course
+role:
 
 # Organizations/Affiliations
 organizations:
@@ -24,17 +24,17 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-  - Mesoscale Convective System
-  - Heavy Precipitation Systems over the Korean Peninsula 
+  - Machine Learning-based Atmospheric Model
+  - Numerical Modeling
 
 education:
   courses:
-    - course: B.S. in Atmospheric Science
-      institution: Yonsei University
-      year: 2026
+    - course: B.S. in Defense Management
+      institution: Korea Airforce Academy
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:atmotics2022@yonsei.ac.kr'
+    link: 'mailto:shs328@yonsei.ac.kr'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -52,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'atmotics2022@yonsei.ac.kr'
+email: 'shs328@yonsei.ac.kr'
 
 #highlight the name in publishment
 highlight_name: true
@@ -61,6 +61,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
-  
+  - Student
 ---
