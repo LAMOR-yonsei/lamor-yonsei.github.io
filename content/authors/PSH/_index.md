@@ -25,7 +25,7 @@ organizations:
 bio: 
 
 experiences:
-  - '2017-　　 : Assistant professor, Department of Atmospheric Sciences, Yonsei University'
+  - '2017-　　 : Assistant/Associate Professor, Department of Atmospheric Sciences, Yonsei University'
   - '2014-2017 : Project Scientist, National Center for Atmospheric Research (NCAR), Boulder, CO, USA'
   - '2013-2013 : Postdoctoral Fellow, Earth System Laboratory, NCAR, Boulder, CO, USA'
   - '2011-2012 : Advanced Study Program (ASP), NCAR, Boulder, CO, USA'

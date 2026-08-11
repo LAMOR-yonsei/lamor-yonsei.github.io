@@ -36,7 +36,7 @@ education:
     - course: M.S. in Atmospheric Science
       institution: Yonsei University
       year: 2023
-    - course: B.S. in Astro and Atmospheric Science
+    - course: B.S. in Atmospheric Science
       institution: Yonsei University
       year: 2021
 
