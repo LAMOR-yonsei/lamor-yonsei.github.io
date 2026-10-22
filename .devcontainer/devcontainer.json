@@ -1,5 +1,16 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {}
-  "ghcr.io/devcontainers/features/hugo:1": {}
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "version": "0.119.0",
+      "extended": true
+    }
+  },
+  "forwardPorts": [1313],
+  "portsAttributes": {
+    "1313": {
+      "label": "Hugo Preview",
+      "onAutoForward": "notify"
+    }
+  }
 }
