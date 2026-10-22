@@ -40,7 +40,7 @@ summary:
 # Keywords
 tags:
   - convectively coupled Kelvin waves
-  - cumulus parameterizations second baroclinic mode
+  - cumulus parameterizations
   - second baroclinic mode
   - WRF channel simulations
 
